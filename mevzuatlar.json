@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "kategori": "Kanun",
+    "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
+    "icerik_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1739&MevzuatTur=1&MevzuatTertip=5"
+  },
+  {
+    "id": 2,
+    "kategori": "Yönetmelik",
+    "baslik": "Ortaöğretim Kurumları Yönetmeliği",
+    "icerik_url": "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=164&MevzuatTur=7&MevzuatTertip=5"
+  }
+]
