@@ -10,5 +10,17 @@
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
+  },
+  {
+    "id": 1,
+    "kategori": "Genelge",
+    "baslik": "Meb Genelge",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
+  },
+  {
+    "id": 2,
+    "kategori": "Yönerge",
+    "baslik": "Etik Yönerge",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   }
 ]
