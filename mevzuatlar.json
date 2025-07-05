@@ -3,12 +3,12 @@
     "id": 1,
     "kategori": "Kanun",
     "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
-    "pdf_url": "https://raw.githubusercontent.com/mecbilisim/meb-mevzuat/main/pdf/1739.pdf"
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   },
   {
     "id": 2,
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
-    "pdf_url": "https://raw.githubusercontent.com/mecbilisim/meb-mevzuat/main/pdf/okul-yonetmeligi.pdf"
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   }
 ]
