@@ -1,0 +1,6 @@
+[
+  { "id": 1, "ad": "Kanunlar", "ikon": "gavel" },
+  { "id": 2, "ad": "Yönetmelikler", "ikon": "article" },
+  { "id": 3, "ad": "Genelgeler", "ikon": "announcement" },
+  { "id": 4, "ad": "Yönergeler", "ikon": "description" }
+]
