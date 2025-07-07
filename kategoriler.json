@@ -2,25 +2,25 @@
   {
     "id": 1,
     "name": "Kanunlar",
-    "desc": "Temel yasa ve anayasa hükümleri",
+    "desc": "Yasal Düzenlemeler",
     "icon": "gavel"
   },
   {
     "id": 2,
-    "name": "Yönetmelikler",
-    "desc": "Uygulama esaslarını belirleyen yönetmelikler",
+    "name": "Kararnameler",
+    "desc": "Cumhurbaşkanlığı",
     "icon": "article"
   },
-  {
-    "id": 3,
-    "name": "Genelgeler",
-    "desc": "Resmi duyurular ve genel talimatlar",
-    "icon": "announcement"
+   {
+    "id": 2,
+    "name": "Yönetmelikler",
+    "desc": "Uygulama Esasları",
+    "icon": "article"
   },
   {
     "id": 4,
     "name": "Yönergeler",
-    "desc": "Kurumsal işleyişe dair yönergeler",
+    "desc": "İşleyiş Talimatları",
     "icon": "description"
   }
 ]
