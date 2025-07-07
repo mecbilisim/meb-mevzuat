@@ -1,57 +1,62 @@
 [
-  {
-    "id": 1,
+   {
+    "id": 11,
     "kategori": "Kanun",
-    "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf"
+    "baslik": "Türkiye Cumhuriyeti Anayasası",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf"
   },
   {
-    "id": 1,
+    "id": 12,
     "kategori": "Kanun",
-    "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf"
+    "baslik": "657 Sayılı Devlet Memurları Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf"
   },
   {
-    "id": 1,
+    "id": 13,
     "kategori": "Kanun",
-    "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf"
+    "baslik": "222 Sayılı İlköğretim ve Eğitim Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.222.pdf"
   },
   {
-    "id": 2,
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "7528 Sayılı Öğretmenlik Mesleği Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7528.pdf"
+  },
+  {
+    "id": 21,
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   },
     {
-    "id": 2,
+    "id": 22,
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   },
     {
-    "id": 2,
+    "id": 23,
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   },
     {
-    "id": 2,
+    "id": 24,
     "kategori": "Yönetmelik",
     "baslik": "Ortaöğretim Kurumları Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
   },
   {
-    "id": 1,
-    "kategori": "Genelge",
-    "baslik": "Meb Genelge",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1881.pdf"
-  },
-  
-  {
-    "id": 2,
+    "id": 3,
     "kategori": "Yönerge",
     "baslik": "Etik Yönerge",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1812.pdf"
+  },
+  {
+    "id": 4,
+    "kategori": "Genelge",
+    "baslik": "Meb Genelge",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1881.pdf"
   }
 ]
