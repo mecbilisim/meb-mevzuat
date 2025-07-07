@@ -1,26 +1,34 @@
 [
   {
     "id": 1,
-    "name": "Kanunlar",
-    "desc": "Yasal Düzenlemeler",
-    "icon": "gavel"
+    "isim": "Kanunlar",
+    "kategori": "Kanun",
+    "descriptionription": "Yasal Düzenlemeler",
+    "icon": "gavel",
+    "color": Color(0xFF2678AA)
   },
   {
     "id": 2,
-    "name": "Kararnameler",
-    "desc": "Cumhurbaşkanlığı",
-    "icon": "article"
+    "isim": "Kararisimler",
+    "kategori": "Kararisim",
+    "description": "Cumhurbaşkanlığı",
+    "icon": "article",
+    "color": Color(0xFF2E7D32)
   },
    {
     "id": 2,
-    "name": "Yönetmelikler",
-    "desc": "Uygulama Esasları",
-    "icon": "article"
+    "isim": "Yönetmelikler",
+    "kategori": "Yönetmelik",
+    "description": "Uygulama Esasları",
+    "icon": "article",
+     "color": Color(0xFF7B1FA2)
   },
   {
     "id": 4,
-    "name": "Yönergeler",
-    "desc": "İşleyiş Talimatları",
-    "icon": "description"
+    "isim": "Yönergeler",
+    "kategori": "Yönerge",
+    "description": "İşleyiş Talimatları",
+    "icon": "descriptionription",
+    "color": Color(0xFFD32F2F)
   }
 ]
