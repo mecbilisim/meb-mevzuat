@@ -1,6 +1,26 @@
 [
-  { "id": 1, "ad": "Kanunlar", "ikon": "gavel" },
-  { "id": 2, "ad": "Yönetmelikler", "ikon": "article" },
-  { "id": 3, "ad": "Genelgeler", "ikon": "announcement" },
-  { "id": 4, "ad": "Yönergeler", "ikon": "description" }
+  {
+    "id": 1,
+    "name": "Kanunlar",
+    "desc": "Temel yasa ve anayasa hükümleri",
+    "icon": "gavel"
+  },
+  {
+    "id": 2,
+    "name": "Yönetmelikler",
+    "desc": "Uygulama esaslarını belirleyen yönetmelikler",
+    "icon": "article"
+  },
+  {
+    "id": 3,
+    "name": "Genelgeler",
+    "desc": "Resmi duyurular ve genel talimatlar",
+    "icon": "announcement"
+  },
+  {
+    "id": 4,
+    "name": "Yönergeler",
+    "desc": "Kurumsal işleyişe dair yönergeler",
+    "icon": "description"
+  }
 ]
