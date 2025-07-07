@@ -11,6 +11,12 @@
     "baslik": "657 Sayılı Devlet Memurları Kanunu",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf"
   },
+    {
+    "id": 13,
+    "kategori": "Kanun",
+    "baslik": "1739 Sayılı Milli Eğitim Temel Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1739.pdf"
+  },
   {
     "id": 13,
     "kategori": "Kanun",
@@ -23,6 +29,85 @@
     "baslik": "7528 Sayılı Öğretmenlik Mesleği Kanunu",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7528.pdf"
   },
+ {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "3308 Sayılı Mesleki Eğitim Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3308.pdf"
+  },
+    {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "7528 Sayılı Öğretmenlik Mesleği Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7528.pdf"
+  },
+    {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "5580 Sayılı Özel Öğretim Kurumları Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5580.pdf"
+  },
+   {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "4483 Sayılı Memurlar Ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4483.pdf"
+  },
+   {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "5108 Sayılı Kamu Mali Yönetimi ve Kontrol Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5018.pdf"
+  },
+   {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "3071 Sayılı Dilekçe Hakının Kullanılmasına Dair Kanun",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3071.pdf"
+  },
+   {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "4688 Sayılı Kamu Görevlileri Sendikaları Ve Toplu Sözleşme Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4688.pdf"
+  },
+   {
+    "id": 14,
+    "kategori": "Kanun",
+    "baslik": "5442 Sayılı İl İdaresi Kanunu",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5442.pdf"
+  },
+{
+    "id": 4,
+    "kategori": "CB Kararnameleri",
+    "baslik": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf"
+  },
+   {
+    "id": 4,
+    "kategori": "CB Kararnameleri",
+    "baslik": "Genel Kadro Ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.2.pdf"
+  },
+  {
+    "id": 4,
+    "kategori": "CB Kararnameleri",
+    "baslik": "Üst Kademe Kamu Yöneticileri İle Kamu Kurum Ve Kuruluşlarında Atama Usûllerine Dair Cumhurbaşkanlığı Kararnamesi",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.3.pdf"
+  },
+   {
+    "id": 4,
+    "kategori": "CB Kararnameleri",
+    "baslik": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum Ve Kuruluşlar İle Diğer Kurum Ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.4.pdf"
+  },
+{
+    "id": 4,
+    "kategori": "CB Kararnameleri",
+    "baslik": "Devlet Denetleme Kurulu Hakkında Cumhurbaşkanlığı Kararnamesi",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.4.pdf"
+  },
+   
   {
     "id": 21,
     "kategori": "Yönetmelik",
@@ -53,10 +138,5 @@
     "baslik": "Etik Yönerge",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1812.pdf"
   },
-  {
-    "id": 4,
-    "kategori": "Genelge",
-    "baslik": "Meb Genelge",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1881.pdf"
-  }
+  
 ]
