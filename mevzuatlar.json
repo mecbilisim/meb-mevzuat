@@ -198,11 +198,60 @@
     "baslik": "Kamu Personeli Kılık Kıyafet Yönetmeliği",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.85105.pdf"
   },
+   {
+    "id": 405,
+    "kategori": "Yönerge",
+    "baslik": "Eğitim Kurulları ve Zümreleri Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2260.pdf"
+  },
   {
     "id": 400,
     "kategori": "Yönerge",
-    "baslik": "Etik Yönerge",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1812.pdf"
-  }
+    "baslik": "Özel Eğitim Hzimetleri Etik Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2274.pdf"
+  },
+     {
+    "id": 401,
+    "kategori": "Yönerge",
+    "baslik": "Sınıf İçi Etkinlikleri ve Öğretim Faaliyetlerinin İzlenmesi, Değerlendirilmesi ve Geliştirilmesine İlişkin Yönerge",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2264.pdf"
+  },
+    {
+    "id": 402,
+    "kategori": "Yönerge",
+    "baslik": "Sosyal Etkinlik İzinleri Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2041.pdf"
+  },
+    {
+    "id": 403,
+    "kategori": "Yönerge",
+    "baslik": "Millî Eğitim Bakanlığı Merkezî Sistem Sınav Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2244.pdf"
+  },
+    {
+    "id": 404,
+    "kategori": "Yönerge",
+    "baslik": "Başarı, Üstün Başarı Belgesi ve Ödül Verilmesine Dair Yönerge",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2265.pdf"
+  },
+    
+    {
+    "id": 406,
+    "kategori": "Yönerge",
+    "baslik": "Yazılı ve Uygulamalı Sınavlar Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2186.pdf"
+  },
+    {
+    "id": 407,
+    "kategori": "Yönerge",
+    "baslik": "Destekleme ve Yetiştirme Kursları Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2179.pdf"
+  },
+   {
+    "id": 408,
+    "kategori": "Yönerge",
+    "baslik": "Sosyal Sorumluluk Programı ve Hayat Boyu Öğrenme/Sertifikasyon Uygulama Yönergesi",
+    "pdf_url": "https://mevzuat.meb.gov.tr/dosyalar/2194.pdf"
+  },
   
 ]
