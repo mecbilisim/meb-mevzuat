@@ -79,31 +79,31 @@
   },
 {
     "id": 200,
-    "kategori": "CB Kararnamesi",
+    "kategori": "Kararname",
     "baslik": "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf"
   },
    {
     "id": 201,
-    "kategori": "CB Kararnamesi",
+    "kategori": "Kararname",
     "baslik": "Genel Kadro Ve Usulü Hakkında Cumhurbaşkanlığı Kararnamesi",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.2.pdf"
   },
   {
     "id": 202,
-    "kategori": "CB Kararnamesi",
+    "kategori": "Kararname",
     "baslik": "Üst Kademe Kamu Yöneticileri İle Kamu Kurum Ve Kuruluşlarında Atama Usûllerine Dair Cumhurbaşkanlığı Kararnamesi",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.3.pdf"
   },
    {
     "id": 203,
-    "kategori": "CB Kararnamesi",
+    "kategori": "Kararname",
     "baslik": "Bakanlıklara Bağlı, İlgili, İlişkili Kurum Ve Kuruluşlar İle Diğer Kurum Ve Kuruluşların Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.4.pdf"
   },
 {
     "id": 204,
-    "kategori": "CB Kararnamesi",
+    "kategori": "Kararname",
     "baslik": "Devlet Denetleme Kurulu Hakkında Cumhurbaşkanlığı Kararnamesi",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.4.pdf"
   },
@@ -117,26 +117,92 @@
     {
     "id": 301,
     "kategori": "Yönetmelik",
-    "baslik": "Ortaöğretim Kurumları Yönetmeliği",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
+    "baslik": "Okul Öncesi Eğitim Ve İlköğretim Kurumları Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.19942.pdf"
   },
     {
     "id": 302,
     "kategori": "Yönetmelik",
-    "baslik": "Ortaöğretim Kurumları Yönetmeliği",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
+    "baslik": "Resmî Yazışmalarda Uygulanacak Usul ve Esaslar Hakkında Yönetmelik",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.2646.pdf"
   },
     {
     "id": 303,
     "kategori": "Yönetmelik",
-    "baslik": "Ortaöğretim Kurumları Yönetmeliği",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.18812.pdf"
+    "baslik": "Eğitim Kurumları Yönetici ve Öğretmenlerinin Norm Kadrolarına İlişkin Yönetmelik",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.20146459.pdf"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Özel Eğitim Hizmetleri Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.24736.pdf"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Öğretmen Atama ve Yer Değiştirme Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.20694.pdf"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Eğitim Kurumlarına Yönetici Seçme ve Görevlendirme Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.38297.pdf"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Rehberlik ve Psikolojik Danışma Hizmetleri Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=34760&mevzuatTur=KurumVeKurulusYonetmeligi&mevzuatTertip=5"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Öğrenci Kılık Kıyafet Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.20123959.pdf"
+  },
+    {
+    "id": 303,
+    "kategori": "Yönetmelik",
+    "baslik": "Aday Öğretmenlik ve Öğretmenlik Kariyer Basamakları Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.41110.pdf"
+  },
+    {
+    "id": 300,
+    "kategori": "Yönetmelik",
+    "baslik": "Mal Bildiriminde Bulunulması Hakkında Yönetmelik",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.90748.pdf"
+  },
+   {
+    "id": 300,
+    "kategori": "Yönetmelik",
+    "baslik": "",
+    "pdf_url": ""
+  },
+   {
+    "id": 300,
+    "kategori": "Yönetmelik",
+    "baslik": "Hastalık Raporları ve Refakat İzinleri Usu ve Esasları Hakkında Yönetmelik",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.20112226.pdf"
+  },
+   {
+    "id": 300,
+    "kategori": "Yönetmelik",
+    "baslik": "Doğum Yardımı Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/21.5.9721.pdf"
+  },
+   {
+    "id": 300,
+    "kategori": "Yönetmelik",
+    "baslik": "Kamu Personeli Kılık Kıyafet Yönetmeliği",
+    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/3.5.85105.pdf"
   },
   {
     "id": 400,
     "kategori": "Yönerge",
     "baslik": "Etik Yönerge",
     "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/yonetmelik/7.5.1812.pdf"
-  }
+  },
   
 ]
