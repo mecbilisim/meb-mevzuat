@@ -1,16 +1,5 @@
 [
-   {
-    "id": 100,
-    "kategori": "Kanun",
-    "baslik": "Türkiye Cumhuriyeti Anayasası",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf"
-  },
-  {
-    "id": 101,
-    "kategori": "Kanun",
-    "baslik": "657 Sayılı Devlet Memurları Kanunu",
-    "pdf_url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf"
-  },
+  
     {
     "id": 102,
     "kategori": "Kanun",
